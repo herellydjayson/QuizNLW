@@ -1,3 +1,5 @@
+
+
 const perguntas = [
     {
       pergunta: "O que o console.log() faz em JavaScript?",
