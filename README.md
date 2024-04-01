@@ -1,1 +1,1 @@
-
+Participei do NLW Expert da Rocketseat na trilha de HTML+CSS+JS. <br> O projeto foi um Teste de conhecimentos arquitetado de forma a carregar as questões/respostas <br> dinamicamente a partir de uma lista e contabilizar os acertos.
